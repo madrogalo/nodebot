@@ -1,0 +1,25 @@
+{
+  "name": "nodebot",
+  "version": "1.0.0",
+  "description": "nodebot",
+  "main": "app.js",
+  "dependencies": {
+    "firebase": "^7.21.1",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madrogalo/nodebot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madrogalo/nodebot/issues"
+  },
+  "homepage": "https://github.com/madrogalo/nodebot#readme"
+}
